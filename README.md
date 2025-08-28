@@ -13,7 +13,7 @@ This project is a learning playground for experimenting with **Prisma ORM** usin
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Learn how to integrate Prisma with NestJS
 - Explore Prisma schema modeling and relationships
