@@ -1,4 +1,4 @@
-# 🧪 Prisma Task – NestJS + Prisma Playground
+# Prisma Task – NestJS + Prisma Playground
 
 This project is a learning playground for experimenting with **Prisma ORM** using **NestJS** and **PostgreSQL**. It focuses on understanding Prisma’s core features, including schema modeling, database migrations, and Prisma Client queries.
 
