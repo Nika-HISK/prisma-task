@@ -4,7 +4,7 @@ This project is a learning playground for experimenting with **Prisma ORM** usin
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **NestJS** – Progressive Node.js framework
 - **Prisma ORM** – Modern ORM for TypeScript and PostgreSQL
