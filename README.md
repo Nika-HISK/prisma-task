@@ -22,7 +22,7 @@ This project is a learning playground for experimenting with **Prisma ORM** usin
 
 ---
 
-## 🛠️ Development Setup
+## Development Setup
 
 ```bash
 # Clone the repo
